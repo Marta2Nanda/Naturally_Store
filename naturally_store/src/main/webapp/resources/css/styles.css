@@ -1,0 +1,78 @@
+body {
+	position: relative;
+	padding-top: 1em;
+}
+
+#home {
+	padding-top: 50px;
+	height: 645px;
+	color: #FFFAF0;
+	background-image: url("../pics/background.jpg");
+}
+
+#textHome {
+	text-shadow: 2px 2px #4B0082;
+	text-align: center;
+	padding-top: 50px;
+	font-weight: bold;
+}
+
+#products {
+	padding-top: 50px;
+	height: 1210px;
+	color: #6A5ACD;
+	background-color: #FFFAF0;
+}
+
+#admin {
+	padding-top: 50px;
+	height: 740px;
+	color: #6A5ACD;
+	background-color: #FFEFD5;
+}
+
+.navbar {
+	background-color: #ffffff;
+}
+
+#modal-left {
+	float: left;
+	column-count: 2;
+}
+
+#modal-right {
+	float: right;
+}
+
+.mainArea input {
+	margin-bottom: 15px;
+	margin-top: 5px;
+	width: 280px;
+}
+
+textarea {
+	margin-bottom: 10px;
+	margin-top: 5px;
+	height: 100px;
+	width: 200px;
+}
+
+label {
+	display: block;
+}
+
+#content {
+	width: 90%;
+	margin: auto;
+}
+
+.card {
+	background: #ffffff;
+	margin: 5px;
+	padding: 1em;
+	max-height: 350px;
+}
+
+.modal-title {
+	float: left;
+}
